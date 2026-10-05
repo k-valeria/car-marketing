@@ -77,6 +77,8 @@
   - `README.md` - описание проекта
   - `dashboard/`
     - `car_marketing.pbix` - файл Power BI
+  - `data/`
+    - `Авто дилер.xlsx` - исходные данные
   - `screenshots/`
     - `page_conversions.jpg` - анализ конверсий
     - `page_sales.jpg` - анализ продаж
