@@ -64,20 +64,20 @@
 # Скриншоты
 
 **Анализ конверсий**
-![Анализ конверсий](screenshots/page_conversions.png)
+![Анализ конверсий](screenshots/page_conversions.jpg)
 
 **Анализ продаж**
-![Анализ продаж](screenshots/page_sales.png)
+![Анализ продаж](screenshots/page_sales.jpg)
 
 **Модель данных**
-![Модель данных](screenshots/data_model.png)
+![Модель данных](screenshots/data_model.jpg)
 
 ## Структура проекта
 - `car-dealer-marketing/`
   - `README.md` - описание проекта
   - `dashboard/`
-    - `car_dealer_dashboard.pbix` - файл Power BI
+    - `car_marketing.pbix` - файл Power BI
   - `screenshots/`
-    - `page_conversions.png` - анализ конверсий
-    - `page_sales.png` - анализ продаж
-    - `data_model.png` - схема
+    - `page_conversions.jpg` - анализ конверсий
+    - `page_sales.jpg` - анализ продаж
+    - `data_model.jpg` - схема
